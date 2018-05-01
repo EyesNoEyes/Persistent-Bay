@@ -44,7 +44,7 @@
 	slot_flags = SLOT_BELT
 	w_class = ITEM_SIZE_LARGE
 	force = 8 //looks heavier than a pistol
-	self_recharge = 1
+	max_shots = 20
 	modifystate = null
 	one_hand_penalty = 1 //bulkier than an e-gun, but not quite the size of a carbine
 
